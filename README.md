@@ -17,7 +17,7 @@ A libre document to calculate the normalized home expenses using python macros o
     `/Users/user/Library/Application Support/LibreOffice/4/user/Scripts/python`
 
 2. Open `expenses.ods`, with macros enabled
-3. Click `Recaculate monthlies` button.  
+3. Click `Recalculate monthlies` button.  
 
 *Read [this help page](https://help.libreoffice.org/latest/en-US/text/sbasic/python/python_locations.html) to learn more about where Python scripts are located.*  
 *This repo is inspired by [LibreOffice Conference 2021](https://github.com/rafaelhlima/LibOCon_2021_SFCalc)*
